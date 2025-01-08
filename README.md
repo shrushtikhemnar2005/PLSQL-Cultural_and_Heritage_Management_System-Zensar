@@ -1,6 +1,7 @@
 # PLSQL-Cultural_and_Heritage_Management_System-Zensar
 # Cultural Heritage Management System
-
+## About Me
+Hello! I am Shrushti Khemnar, a third-year *Computer Engineering* student at *AVCOE College*.
 This project is a database system designed to manage cultural heritage sites, artifacts, restoration projects, and visitor records. The system ensures efficient operations and the preservation of cultural heritage while providing analytics for better decision-making.
 
 ## Features
