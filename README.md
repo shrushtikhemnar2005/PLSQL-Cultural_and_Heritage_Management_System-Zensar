@@ -1,5 +1,5 @@
 # PLSQL-Cultural_and_Heritage_Management_System-Zensar
-# Cultural Heritage Management System
+# Cultural and Heritage Management System
 ## About Me
 Hello! I am Shrushti Khemnar, a third-year *Computer Engineering* student at *AVCOE College*.
 
